@@ -1,0 +1,27 @@
+{
+  "name": "forging-fire-text-effects",
+  "version": "2.0.1",
+  "description": "Apply animated, fire-based text effects for web pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darrelldresner/forging-fire-text-effects"
+  },
+  "keywords": [
+    "text-effects",
+    "fire",
+    "animation",
+    "web-design",
+    "forging"
+  ],
+  "author": "Avery Knight",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.6.1",
+    "three": "^0.126.1",
+    "text-animate": "^1.0.0"
+  }
+}
